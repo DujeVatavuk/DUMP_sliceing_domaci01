@@ -1,0 +1,9 @@
+Update: The lack of information regarding the test system could have elicited some gray areas in 
+the interpretation of the results. Hardware.fr tests, and below results, were obtained by setting the
+8-core chips at 3 GHz, with SMT and HT deactivated. Memory for the Ryzen and Intel platforms was DDR4-2
+400 with 15-15-15-35 timings, and memory for the AMD FX platform was DDR3-1600 operating at 9-9-9-24 timings. 
+Both memory configurations were set at 4x 4 GB, totaling 16 GB of memory.
+
+From some more testing results, we see that Intel's L1 cache is still leagues ahead from AMD's implementation; that AMD's
+L2 is overall faster than Intel's, though it does incur on a roughly 2 ns latency penalty; and that AMD's L3 memory is very
+much behind Intel's in all metrics but L3 cache copies, with latency being almost 3x greater than on Intel's 6900K.
