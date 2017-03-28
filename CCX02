@@ -1,0 +1,5 @@
+Update: The lack of information regarding the test system could have elicited some gray areas in 
+the interpretation of the results. Hardware.fr tests, and below results, were obtained by setting the
+8-core chips at 3 GHz, with SMT and HT deactivated. Memory for the Ryzen and Intel platforms was DDR4-2
+400 with 15-15-15-35 timings, and memory for the AMD FX platform was DDR3-1600 operating at 9-9-9-24 timings. 
+Both memory configurations were set at 4x 4 GB, totaling 16 GB of memory.
