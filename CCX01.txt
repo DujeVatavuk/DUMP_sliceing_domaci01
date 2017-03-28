@@ -1,0 +1,12 @@
+AMD's Ryzen 7 lower than expected performance in some applications seems to stem from a particular problem: 
+memory. Before AMD's Ryzen chips were even out, reports pegged AMD as having confirmed that most of the tweaks
+and programming for the new architecture had been done in order to improve core performance to its max - at the
+expense of memory compatibility and performance. Apparently, and until AMD's entire Ryzen line-up is completed
+with the upcoming Ryzen 5 and Ryzen 3 processors, the company will be hard at work on improving Ryzen's cache handling
+and memory latency.
+
+Hardware.fr has done a pretty good job in exploring Ryzen's cache and memory subsystem deficiencies through the use of AIDA 64,
+in what would otherwise be an exceptional processor design. Namely, the fact that there seems to be some problem with Ryzen's L3
+cache and memory subsystem implementation. Paired with the same memory configuration and at the same 3 GHz clocks, for instance,
+Ryzen's memory tests show memory latency results that are up to 30 ns higher (at 90 ns) than the average latency found on Intel's
+i7 6900K or even AMD's FX 8350 (both at around 60 ns).
